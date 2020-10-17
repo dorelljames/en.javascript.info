@@ -6,7 +6,7 @@ We normally use them to describe how and why the code works.
 
 At first sight, commenting might be obvious, but novices in programming often use them wrongly.
 
-## Bad comments
+## Bad comments corrected
 
 Novices tend to use comments to explain "what is going on in the code". Like this:
 
